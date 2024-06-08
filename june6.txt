@@ -1,0 +1,5 @@
+today we learnt the concept of directory structure of django 
+difference between projects and apps 
+how apps are listed into the project folder 
+some basic rules to be followed while using the framework
+and we leant about the asgi wsgi files in brief
