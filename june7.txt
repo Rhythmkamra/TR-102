@@ -1,0 +1,2 @@
+the concept of models views and urls and how a project works using these concept was learnt today.
+got a brief idea about the mvt architecture of the framework.how the views are managed and urls are accepted
