@@ -1,0 +1,2 @@
+Topic: Django Models
+Summary: Understand Django's ORM and create models to define the database schema. Learn about model fields, methods, and metadata.

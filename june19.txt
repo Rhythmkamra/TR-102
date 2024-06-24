@@ -1,0 +1,2 @@
+Topic: Managing Static Files
+Summary: Learn how to handle static files (CSS, JavaScript, images) in Django. Configure the settings to serve static files during development and production.

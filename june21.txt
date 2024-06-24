@@ -1,0 +1,2 @@
+Topic: Model Relationships
+Summary: Dive deeper into Django models by learning about relationships (One-to-One, Many-to-One, Many-to-Many). Understand how to use related fields and query related data.

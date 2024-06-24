@@ -1,0 +1,2 @@
+Topic: Authentication System
+Summary: Implement user authentication using Django's built-in system. Learn about user models, registration, login, logout, and password management.

@@ -1,0 +1,3 @@
+Django Apps
+Topic: Creating and Configuring Apps
+Summary: Learn the concept of Django apps and create your first app using python manage.py startapp. Understand how to register the app in the project's settings

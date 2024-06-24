@@ -1,0 +1,2 @@
+Topic: Managing Database Schema
+Summary: Use Django's migration system to create and apply database schema changes. Learn commands like makemigrations and migrate.
