@@ -1,2 +1,0 @@
-Topic: Django Forms
-Summary: Create and process forms in Django. Understand form fields, validation, and how to render forms in templates.

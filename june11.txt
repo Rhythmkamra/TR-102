@@ -1,2 +1,0 @@
-Topic: Django Templates
-Summary: Learn about Django's templating engine. Create HTML templates and use template tags and filters to display dynamic content.

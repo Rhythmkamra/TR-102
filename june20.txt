@@ -1,3 +1,0 @@
-
-Topic: Class-Based Views (CBVs)
-Summary: Understand the concept of class-based views. Convert function-based views to class-based views and explore built-in generic views.

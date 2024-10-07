@@ -1,2 +1,0 @@
-Topic: The Django Admin Interface
-Summary: Explore the Django admin interface for managing models. Learn how to register models with the admin site and customize the admin interface.

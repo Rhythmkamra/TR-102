@@ -1,2 +1,0 @@
-today we were explained about the working of django framework its main advantages ,where it is used .
-which companies use it and how it is used in various fields
